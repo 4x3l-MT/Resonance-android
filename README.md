@@ -9,7 +9,7 @@ Native Android client for the **Resonance** distributed multi-room audio system.
 1. **Low-Latency Audio Receiver Node:** Turns any Android device (including legacy phones connected to wired speakers or Bluetooth receivers) into a sub-millisecond synchronized audio endpoint via a custom binary TCP protocol implementation.
 2. **Multi-Room Control Console:** Provides real-time playback metadata, zone volume management, and per-device latency calibration over WebSockets.
 
-> **Companion Repository:** Requires the [`resonance-core`](https://github.com/4x3lmt/resonance-core) server running on your local network to handle Spotify Connect ingestion, audio piping, and RPC orchestration.
+> **Companion Repository:** Requires the [`resonance-core`](https://github.com/4x3l-MT/resonance-core) server running on your local network to handle Spotify Connect ingestion, audio piping, and RPC orchestration.
 
 ---
 
