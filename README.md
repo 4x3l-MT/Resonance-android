@@ -33,7 +33,7 @@ resonance-core (Linux Server)
  └── Control WebSocket (:8000) ──► BackendWebSocketClient ──► MultiroomRepository ──► Compose UI
 ```
 
-For a deep dive into package structure, packet layouts, and audio buffer mechanics, see [`docs/ARCHITECTURE.md`](ARCHITECTURE.md).
+For a deep dive into package structure, packet layouts, and audio buffer mechanics, see [`ARCHITECTURE.md`](ARCHITECTURE.md).
 
 ---
 
